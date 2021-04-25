@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f91e8c9a-50f6-4f2d-848e-c0a3e4eb8d63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/p1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba1" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rbTG64bCiExJW2KOhDjKuc7i2I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="D:/class/admi de proye sof/proyecto/Guabc/Login_V1/settings.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Login_V1/settings.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.D:/class/admi de proye sof/proyecto/Guabc/Login_V1/settings.gradle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f91e8c9a-50f6-4f2d-848e-c0a3e4eb8d63" name="Default Changelist" comment="" />
+      <created>1619243690131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619243690131</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="120" width="1177" height="660" key="AVDManager" timestamp="1619244070944">
+      <screen x="62" y="0" width="1378" height="900" />
+    </state>
+    <state x="163" y="120" width="1177" height="660" key="AVDManager/62.0.1378.900@62.0.1378.900" timestamp="1619244070944" />
+    <state width="1339" height="219" key="GridCell.Tab.0.bottom" timestamp="1619244070872">
+      <screen x="62" y="0" width="1378" height="900" />
+    </state>
+    <state width="1339" height="219" key="GridCell.Tab.0.bottom/62.0.1378.900@62.0.1378.900" timestamp="1619244070872" />
+    <state width="1339" height="219" key="GridCell.Tab.0.center" timestamp="1619244070872">
+      <screen x="62" y="0" width="1378" height="900" />
+    </state>
+    <state width="1339" height="219" key="GridCell.Tab.0.center/62.0.1378.900@62.0.1378.900" timestamp="1619244070872" />
+    <state width="1339" height="219" key="GridCell.Tab.0.left" timestamp="1619244070872">
+      <screen x="62" y="0" width="1378" height="900" />
+    </state>
+    <state width="1339" height="219" key="GridCell.Tab.0.left/62.0.1378.900@62.0.1378.900" timestamp="1619244070872" />
+    <state width="1339" height="219" key="GridCell.Tab.0.right" timestamp="1619244070872">
+      <screen x="62" y="0" width="1378" height="900" />
+    </state>
+    <state width="1339" height="219" key="GridCell.Tab.0.right/62.0.1378.900@62.0.1378.900" timestamp="1619244070872" />
+  </component>
+</project>

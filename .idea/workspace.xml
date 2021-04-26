@@ -23,8 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f91e8c9a-50f6-4f2d-848e-c0a3e4eb8d63" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/p1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prueba1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login_V1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Login_V1/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login_V1/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
-    <configuration name="D:/class/admi de proye sof/proyecto/Guabc/Login_V1/settings.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="D:/class/admi de proye sof/proyecto/Guabc/Login_V1/settings.gradle" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/Login_V1/settings.gradle" />
@@ -62,11 +63,6 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Gradle.D:/class/admi de proye sof/proyecto/Guabc/Login_V1/settings.gradle" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -91,27 +87,44 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="163" y="120" width="1177" height="660" key="AVDManager" timestamp="1619244070944">
+    <state x="163" y="120" width="1177" height="660" key="AVDManager" timestamp="1619320607291">
       <screen x="62" y="0" width="1378" height="900" />
     </state>
-    <state x="163" y="120" width="1177" height="660" key="AVDManager/62.0.1378.900@62.0.1378.900" timestamp="1619244070944" />
-    <state width="1339" height="219" key="GridCell.Tab.0.bottom" timestamp="1619244070872">
+    <state x="163" y="120" width="1177" height="660" key="AVDManager/62.0.1378.900@62.0.1378.900" timestamp="1619320607291" />
+    <state width="1339" height="219" key="GridCell.Tab.0.bottom" timestamp="1619320977358">
       <screen x="62" y="0" width="1378" height="900" />
     </state>
-    <state width="1339" height="219" key="GridCell.Tab.0.bottom/62.0.1378.900@62.0.1378.900" timestamp="1619244070872" />
-    <state width="1339" height="219" key="GridCell.Tab.0.center" timestamp="1619244070872">
+    <state width="1339" height="219" key="GridCell.Tab.0.bottom/62.0.1378.900@62.0.1378.900" timestamp="1619320977358" />
+    <state width="1339" height="219" key="GridCell.Tab.0.center" timestamp="1619320977357">
       <screen x="62" y="0" width="1378" height="900" />
     </state>
-    <state width="1339" height="219" key="GridCell.Tab.0.center/62.0.1378.900@62.0.1378.900" timestamp="1619244070872" />
-    <state width="1339" height="219" key="GridCell.Tab.0.left" timestamp="1619244070872">
+    <state width="1339" height="219" key="GridCell.Tab.0.center/62.0.1378.900@62.0.1378.900" timestamp="1619320977357" />
+    <state width="1339" height="219" key="GridCell.Tab.0.left" timestamp="1619320977357">
       <screen x="62" y="0" width="1378" height="900" />
     </state>
-    <state width="1339" height="219" key="GridCell.Tab.0.left/62.0.1378.900@62.0.1378.900" timestamp="1619244070872" />
-    <state width="1339" height="219" key="GridCell.Tab.0.right" timestamp="1619244070872">
+    <state width="1339" height="219" key="GridCell.Tab.0.left/62.0.1378.900@62.0.1378.900" timestamp="1619320977357" />
+    <state width="1339" height="219" key="GridCell.Tab.0.right" timestamp="1619320977357">
       <screen x="62" y="0" width="1378" height="900" />
     </state>
-    <state width="1339" height="219" key="GridCell.Tab.0.right/62.0.1378.900@62.0.1378.900" timestamp="1619244070872" />
+    <state width="1339" height="219" key="GridCell.Tab.0.right/62.0.1378.900@62.0.1378.900" timestamp="1619320977357" />
+    <state width="1339" height="219" key="GridCell.Tab.1.bottom" timestamp="1619320977358">
+      <screen x="62" y="0" width="1378" height="900" />
+    </state>
+    <state width="1339" height="219" key="GridCell.Tab.1.bottom/62.0.1378.900@62.0.1378.900" timestamp="1619320977358" />
+    <state width="1339" height="219" key="GridCell.Tab.1.center" timestamp="1619320977358">
+      <screen x="62" y="0" width="1378" height="900" />
+    </state>
+    <state width="1339" height="219" key="GridCell.Tab.1.center/62.0.1378.900@62.0.1378.900" timestamp="1619320977358" />
+    <state width="1339" height="219" key="GridCell.Tab.1.left" timestamp="1619320977358">
+      <screen x="62" y="0" width="1378" height="900" />
+    </state>
+    <state width="1339" height="219" key="GridCell.Tab.1.left/62.0.1378.900@62.0.1378.900" timestamp="1619320977358" />
+    <state width="1339" height="219" key="GridCell.Tab.1.right" timestamp="1619320977358">
+      <screen x="62" y="0" width="1378" height="900" />
+    </state>
+    <state width="1339" height="219" key="GridCell.Tab.1.right/62.0.1378.900@62.0.1378.900" timestamp="1619320977358" />
   </component>
 </project>

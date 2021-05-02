@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login_V1</string>
+    <string name="Btn_foto">Cambiar foto de perfil</string>
+    <string name="Btn_nombre">Cambiar nombre</string>
+    <string name="Btn_contraseña">Cambiar contraseña</string>
+    <string name="Txt_estado">Estado</string>
+</resources>
